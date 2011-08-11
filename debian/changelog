@@ -1,3 +1,9 @@
+nodejs-async (0.1.9-0sg2) UNRELEASED; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Thu, 11 Aug 2011 18:37:58 +0000
+
 nodejs-async (0.1.9-0sg0) unstable; urgency=low
 
   * Debianized
